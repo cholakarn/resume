@@ -30,6 +30,11 @@ font-family: 'Poppins', sans-serif;
 color: #55573f;
 }
 
+.myfontpopbw{
+font-family: 'Poppins', sans-serif;
+color: #6d412a;
+}
+
 .myfontpopoon{
 font-family: 'Poppins', sans-serif;
 color: #ebdec4 ;
@@ -38,6 +43,11 @@ color: #ebdec4 ;
 .myfontkanit{
 font-family: 'Kanit', sans-serif;
 color: #55573f;
+}
+
+.myfontkanitbk{
+font-family: 'Kanit', sans-serif;
+color: black ;
 }
 
 * {
